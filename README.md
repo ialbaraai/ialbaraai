@@ -8,7 +8,7 @@ Low-level C/C++ developer focused on game engines, runtime systems, and tools. I
 
 **Game Engines**
 - **[VX Engine](https://github.com/ialbaraai/VX-Engine-V1.0)** — CLI-based game framework in pure C
-- **[VisualX Engine 2.0](https://github.com/ialbaraai/VisualX-Engine)** (SDL3 + Lua scripting via sol2) — 2D game engine with a full Lua API written in C++
+- **[VisualX Engine](https://github.com/ialbaraai/VisualX-Engine)** (SDL3 + Lua scripting via sol2) — 2D game engine with a full Lua API written in C++
 - **[VisualX Engine C](https://github.com/ialbaraai/VisualX-Engine-C)** *(in progress)* — OpenGL + GLFW + Nuklear + LuaJIT 3D game engine written in C
 
 **Systems & Libraries**
